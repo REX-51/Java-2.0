@@ -14,7 +14,7 @@ public class ReverseNum {
 // 1) suppose input is 7398.
 // 2) pehle to reverse var me 0 store hai, then number ko 10 se %(modulo) karke remainder me 8 store ho jaaega.
 // 3) ab pure number me se es last digit i.e., 8 ko remove karne ke liye /(divide) operator karo kyuki ye quotient deta hai and then ye hoga.
-// in each while loop step -->  0   *   10  +  8   (8)
+// in each while loop step -->                      0   *   10  +  8   (8)
 // Second iteration -->                             8   *   10  +  9   (89)
 // Third iteration  -->                             89  *   10  +  3   (893)
 // Fourth iteration -->                             893 *   10  +  7   (8937)
