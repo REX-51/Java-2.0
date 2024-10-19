@@ -1,4 +1,4 @@
-//    Q: Write a program to find occurrences of a digit in a given number.
+//    Q: Find occurrences of a digit in a given number.
 
 import java.util.Scanner;
 public class OccOfNum {

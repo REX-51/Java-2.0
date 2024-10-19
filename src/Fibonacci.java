@@ -1,4 +1,4 @@
-//    Q: Write a program to print fibonacci series till a given max value.
+//    Q: Fibonacci series till a given max value.
 //       (user se ek max value input leni hai, jaha tak jo bhi last fibonacci number
 //       hoga vaha tak series print karna hai.
 
