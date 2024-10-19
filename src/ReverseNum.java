@@ -7,8 +7,9 @@ public class ReverseNum {
         while(number > 0){
             int remainder = number % 10; // % gives remainder
             number = number / 10;  // ye remainder vala part hata dega yaani ki es step ke baad given number me se last digit hat jaaega.
-            reverse = reverse * 10 +remainder;
+            reverse = reverse * 10 + remainder;
         }
+        System.out.println(reverse);
     }
 }
 // 1) suppose input is 7398.
