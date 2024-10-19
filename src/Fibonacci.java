@@ -20,7 +20,7 @@ public class Fibonacci {
             y = sum;                     // y me sum ki value daalo.
             sum = x + y;                 // sum me add kar do
                                          // 1) fir loop yehi repeat karega till max value
-                                         // tak ka fibonacci number mile.
+                                         // jaha tak ka fibonacci number mile.
         }
     }
 }
