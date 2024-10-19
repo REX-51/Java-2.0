@@ -19,5 +19,6 @@ public class Main {
         // 2) String[] is an array of strings.
 
         System.out.println("Hello world!");
+        System.out.println("Test Program");
     }
 }
